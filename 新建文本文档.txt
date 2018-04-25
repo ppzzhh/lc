@@ -1,4 +1,16 @@
 jjjjjj
 
 
+<<<<<<< HEAD
 hhhhhhh
+=======
+hskfhiwuv
+
+
+
+wefhuiwvk
+
+
+
+pzh is a good man!
+>>>>>>> master1
